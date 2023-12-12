@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395339363880",
+    "project_id": "bidsub-93c8f",
+    "storage_bucket": "bidsub-93c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395339363880:android:024bd8b2f0c6c4ee46671d",
+        "android_client_info": {
+          "package_name": "com.devolaolumide.Bidsub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6glC7qvOYahZ_d5s28q6Wstm8cX0Z0io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
