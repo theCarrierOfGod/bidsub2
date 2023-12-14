@@ -27,6 +27,7 @@
         "android.permission.RECORD_AUDIO"
       ],
       "package": "com.devolaolumide.Bidsub",
+      "versionCode": 2,
       "googleServicesFile": "./google-services.json"
     },
     "web": {
